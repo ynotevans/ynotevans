@@ -1,12 +1,6 @@
 ## Hi there, welcome to my Github profile!
 Currently a Computer Science Undergraduate Student in Nanyang Technological University
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ynotevans)](https://git.io/streak-stats)
-
-
-
-
 <!--
 **ynotevans/ynotevans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
